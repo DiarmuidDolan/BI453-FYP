@@ -26,4 +26,4 @@ The data comes from the **METABRIC** dataset, available publicly on [cBioPortal]
 
 1. Make sure you have Python installed.
 2. Install required Python packages by running; pip install -r requirements.txt
-3. start files are withing repository; files.zip
+3. start files are within repository; files.zip
