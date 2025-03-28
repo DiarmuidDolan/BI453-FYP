@@ -19,6 +19,8 @@ This project uses machine learning to predict relapse-free survival (RFS) in bre
 The data comes from the **METABRIC** dataset, available publicly on [cBioPortal](https://www.cbioportal.org/study/summary?id=brca_metabric).
 
 > ⚠️ This project does **not** include the raw METABRIC data — please download it directly from cBioPortal if needed.
+>
+> full meethylation dataset can be found here along with other starting files: https://drive.google.com/drive/folders/1NDocMMD_BR4sCxZiiqPq7VAfiWcnILas?usp=drive_link
 
 ## How to Use This Project
 
